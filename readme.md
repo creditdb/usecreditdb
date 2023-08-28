@@ -1,6 +1,6 @@
 # How to use CreditDB Client for Go
 
-This code shows use cases for [CreditDB](../creditdb), a fast and efficient key-value database built in Typescript.
+This code shows use cases for [CreditDB](https://github.com/creditdb), a fast and efficient key-value database built in Typescript.
 
 ## Clone repo and run
 
